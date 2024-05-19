@@ -6,5 +6,6 @@ This is my solutions for 2019. I use the current version of PHP.
 
 | Day | Part 1 | Part 2 |
 |---|---|---|
-| [Day 1: The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1) | [x] | [x]
+| [Day 1: The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1) | :white_check_mark: | :white_check_mark:
+| [Day 2: 1202 Program Alarm](https://adventofcode.com/2019/day/2) | :white_check_mark: | :white_check_mark:
 

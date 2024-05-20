@@ -52,6 +52,4 @@ function findPath(string $start, string $end, array $path = []): void
 
         findPath($step, $end, $path);
     }
-
-    return;
 }
